@@ -1,4 +1,4 @@
-# Trabalho-de-Gradua-o-FATEC
+# Trabalho-de-Graduacao-FATEC
 Sistema Juice Jacking no Raspberry pi 3
 
 Esse sistema foi criado para rodar no Raspberry pi 3 em seu sistema operacional baseado em Debian!
